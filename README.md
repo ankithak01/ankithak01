@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I’m Ankitha 👋
 
-<!--
-**ankithak01/ankithak01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I’m a 3rd-year B.Tech student passionate about **automation, AI, and software projects**.  
+I love building systems that simplify workflows and enhance productivity.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Featured Project: Automated Content Research & Social Media Publishing System
+
+**Description:**  
+This project presents an automated content research and social media publishing system designed to streamline the repetitive tasks faced by digital content creators. It uses **n8n workflow automation** to monitor social media, analyze engagement metrics, generate content, and publish automatically.  
+
+**Key Features:**
+- Trend monitoring across multiple social media platforms  
+- Competitor content analysis  
+- Automated content generation (captions, summaries, hashtags)  
+- Scheduling and automated publishing via APIs  
+- Logging and performance tracking for transparency  
+
+**Technologies Used:**  
+`n8n`, `Social Media APIs`, `AI Content Generation`, `Spreadsheet/Database Storage`  
+
+
+## 🛠️ Skills & Tools
+- Programming: `Java`, `Python`  
+- Automation: `n8n`  
+- Web: `HTML`, `CSS`  
+- Database: `MySQL`, `SQLite`  
+- Version Control: `Git`, `GitHub`  
+
+---
+
+## 📫 Connect with Me
+- Email: ankitharathod035@gmail.com  
+- LinkedIn: [linkedin.com/in/ankithak1](https://www.linkedin.com/in/ankitharathod)  
+  
+
+---
+
+✨ Always learning, always building!
