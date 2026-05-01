@@ -1,40 +1,57 @@
-# Hi, I’m Ankitha 👋
+# Hi, I'm Ankitha 👋
 
-Welcome to my GitHub! I’m a 3rd-year B.Tech student passionate about **automation, AI, and software projects**.  
-I love building systems that simplify workflows and enhance productivity.
-
----
-
-## 📂 Featured Project: Automated Content Research & Social Media Publishing System
-
-**Description:**  
-This project presents an automated content research and social media publishing system designed to streamline the repetitive tasks faced by digital content creators. It uses **n8n workflow automation** to monitor social media, analyze engagement metrics, generate content, and publish automatically.  
-
-**Key Features:**
-- Trend monitoring across multiple social media platforms  
-- Competitor content analysis  
-- Automated content generation (captions, summaries, hashtags)  
-- Scheduling and automated publishing via APIs  
-- Logging and performance tracking for transparency  
-
-**Technologies Used:**  
-`n8n`, `Social Media APIs`, `AI Content Generation`, `Spreadsheet/Database Storage`  
-
-
-## 🛠️ Skills & Tools
-- Programming: `Java`, `Python`  
-- Automation: `n8n`  
-- Web: `HTML`, `CSS`  
-- Database: `MySQL`, `SQLite`  
-- Version Control: `Git`, `GitHub`  
+🎓 B.Tech Computer Science Student (2023–2027)  
+💻 Aspiring Frontend Developer  
+🌱 Currently learning and building with React & modern web technologies  
 
 ---
 
-## 📫 Connect with Me
+## 🚀 Skills
+
+- Frontend: HTML, CSS, JavaScript, React, Angular  
+- Programming: Java, Python, C  
+- Databases: MySQL, MongoDB  
+- Tools: Git, GitHub  
+
+---
+
+## 📌 Projects
+
+### 🌤 Weather App (React)
+- Built a responsive weather application using React and REST API  
+- Implemented real-time data fetching and city-based search  
+- Added error handling and dynamic UI updates  
+
+👉 GitHub: https://github.com/ankithak01/weather-app  
+
+---
+
+### 🛒 E-Commerce Website
+- Developed a responsive e-commerce UI using HTML, CSS, JavaScript  
+- Implemented product listing and smooth navigation  
+ 
+
+---
+### 🤖 Automated Content Research & Publishing System
+- Designed an automated workflow to collect trending topics using web scraping  
+- Implemented data filtering to identify relevant content  
+- Integrated AI-based content generation for social media posts  
+- Automated publishing using APIs  
+
+## 📊 Coding Practice
+
+- LeetCode: 130+ problems solved  
+- Focused on Data Structures & Problem Solving  
+
+---
+
+## 🎯 Goal
+
+To become a skilled software developer and build impactful applications.
+
+---
+
+## 📫 Contact Me
+
 - Email: ankitharathod035@gmail.com  
-- LinkedIn: [linkedin.com/in/ankithak1](https://www.linkedin.com/in/ankitharathod)  
-  
-
----
-
-✨ Always learning, always building!
+- LinkedIn:https://www.linkedin.com/in/ankithak1/
