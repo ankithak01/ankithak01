@@ -40,7 +40,7 @@
 
 ## 📊 Coding Practice
 
-- LeetCode: 130+ problems solved  
+- LeetCode: 200+ problems solved  
 - Focused on Data Structures & Problem Solving  
 
 ---
